@@ -1,0 +1,4 @@
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs

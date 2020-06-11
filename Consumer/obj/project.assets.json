@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Producer\\Producer.csproj",
-      "projectName": "Producer",
-      "projectPath": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Producer\\Producer.csproj",
+      "projectUniqueName": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
+      "projectName": "Consumer",
+      "projectPath": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Consumer\\Consumer.csproj",
       "packagesPath": "C:\\Users\\Tayfun\\.nuget\\packages\\",
-      "outputPath": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Producer\\obj\\",
+      "outputPath": "D:\\TAYFUNUYAR\\ProducerConsumerRabbitMQ\\Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
