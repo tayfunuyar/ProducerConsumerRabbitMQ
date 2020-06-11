@@ -2,3 +2,13 @@ D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer
 D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
 D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
 D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+D:\TAYFUNUYAR\ProducerConsumerRabbitMQ\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
