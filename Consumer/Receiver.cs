@@ -5,13 +5,13 @@ using System.Text;
 
 namespace Consumer
 {
-   public  class Receiver
+    public class Receiver
     {
         public static void Main(string[] args)
         {
-            var factory = new ConnectionFactory() { HostName="localhost"};
-            using (var connection =factory.CreateConnection())
-            using (var channel=connection.CreateModel())
+            var factory = new ConnectionFactory() { HostName = "localhost" };
+            using (var connection = factory.CreateConnection())
+            using (var channel = connection.CreateModel())
             {
                 channel.QueueDeclare("BasicTest", false, false, false, null);
 
@@ -23,7 +23,7 @@ namespace Consumer
                     var message = Encoding.UTF8.GetString(body);
                     Console.WriteLine("Received Message: {0}", message);
                 };
-                channel.BasicConsume("BasicTest",true,consumer);
+                channel.BasicConsume("BasicTest", true, consumer);
                 Console.WriteLine("Press [enter] for exit");
                 Console.ReadLine();
             }
